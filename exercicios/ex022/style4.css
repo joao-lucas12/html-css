@@ -1,0 +1,9 @@
+
+body{
+     height: 98vh;
+     margin: 1px dashed black;   
+    background-image: url('imagens/knight.png');
+    background-size: 100px ;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
